@@ -1,0 +1,4 @@
+shop.admin.username=shopmgr
+shop.admin.password=Shop@2026#
+jdbc.url=jdbc:mysql://mysql:3306/shopdb
+jdbc.password=vulhub
